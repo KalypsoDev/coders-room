@@ -71,4 +71,4 @@ Created with 💜 by:
 - [NathaliaRuiz](https://github.com/NathaRuiz)
 - [MariaGarcia](https://github.com/MariaGarciaJordan)
 - [HelenaDR84](https://github.com/HelenaDR84)
-- [Kalypso89](https://github.com/Kalypso89)
+- [KalypsoDev](https://github.com/KalypsoDev)
